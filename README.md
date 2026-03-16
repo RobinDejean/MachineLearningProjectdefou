@@ -1,3 +1,6 @@
+# pour installer uv c'est
+`curl -LsSf https://astral.sh/uv/install.sh | sh`
+
 # pour installer le kernel c'est
 `uv sync`
 # pour activer le kernel c'est
