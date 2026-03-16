@@ -1,0 +1,26 @@
+[project]
+name = "machinelearningprojectdefou"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "contraction-fix>=0.2.2",
+    "contractions>=0.1.73",
+    "demoji>=1.1.0",
+    "ipykernel>=7.2.0",
+    "joblib>=1.5.3",
+    "jupyter>=1.1.1",
+    "kaleido>=1.2.0",
+    "langdetect>=1.0.9",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.3",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "plotly>=6.6.0",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "spacy>=3.8.11",
+    "wordcloud>=1.9.6",
+]
