@@ -4,7 +4,7 @@
 # pour installer le kernel c'est
 `uv sync`
 # pour activer le kernel c'est
-`./activate.sh`
+`./install.sh`
 # pour désactiver c'est
 `deactivate`
 
