@@ -9,6 +9,7 @@ dependencies = [
     "contraction-fix>=0.2.2",
     "contractions>=0.1.73",
     "demoji>=1.1.0",
+    "gensim>=4.4.0",
     "ipykernel>=7.2.0",
     "joblib>=1.5.3",
     "jupyter>=1.1.1",
