@@ -187,3 +187,5 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 
 Projet/nltk_data
+Projet/ScientificModel.pkl
+Projet/ScientificTypeModel.pkl
